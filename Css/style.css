@@ -1,0 +1,41 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #444441 ;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+}
+.navbar ul{
+    float: right;
+}
+.navbar ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 25px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: inter;
+}
+.navbar a {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 70px;
+    text-decoration: none;
+}
+.navbar h1{
+    color: white;
+    padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+    line-height: 41px;
+    font-weight: 600;
+}
+#home{
+    background-image: url(images/Alex.jpg);
+} */
